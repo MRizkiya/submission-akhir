@@ -50,7 +50,7 @@ Fitur Dashboard:
 
 ## Menjalankan Sistem Machine Learning
 Aplikasi web prototype dibuat menggunakan Streamlit untuk memprediksi status mahasiswa secara individual berdasarkan data input akademik dan status finansial.
-- Link Prototype Machine Learning: https://submission-akhir-mmjxcrxvgt4obbojwgpsay.streamlit.app/
+- Link Prototype Machine Learning: https://submission-akhir-dvk8snqgkabhtgxmdb5frz.streamlit.app/
 - Cara Menjalankan Secara Lokal: streamlit run app.py
 
 
